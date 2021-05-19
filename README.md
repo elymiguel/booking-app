@@ -1,6 +1,7 @@
-# BookingApp
+# BookingApp 
+#### Developed in OutSystems 11
 
-####  Developed in OutSystems 11
+#### Application developed for booking management.
 
 ##### Application Features:
 
