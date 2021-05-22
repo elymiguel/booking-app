@@ -26,7 +26,7 @@
 ![Booking](https://i.imgur.com/YU46C9Y.png "Booking")
 - Reservation management 
 - Filter by customer 
-- Bookings Status
+- Filter by Status
 
 
 
