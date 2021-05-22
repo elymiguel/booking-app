@@ -6,9 +6,7 @@
 ##### Application Features:
 
 - Customer Registration
-- Reservation management 
-	- Traditional List 
-	- Directly at the table to be occupied 
+- Reservation management  
 - Tables Status
 - Booking Status
 - Check-in / Check-out
@@ -26,21 +24,24 @@
 
 ## Bookings 
 ![Booking](https://i.imgur.com/YU46C9Y.png "Booking")
-- Reservation management  
+- Reservation management 
+- Filter by customer 
 - Bookings Status
 
 
 
 ## Tables 
 ![Tables](https://i.imgur.com/5wvXUy4.png "Tables")
-- Reservation management  
+- Reservation management 
 - Find a Free Table 
+- Filter by customer
 - Tables Status  
 - Bookings Status
 
 ## Customer 
 ![Clients](https://i.imgur.com/MFrboki.png "Clients")
-- Customer Registration
+- Customer Registration 
+- Filter by customer
 
 ## Reports
 ![Reports_I](https://i.imgur.com/pV35KaZ.png "Reports_I")
