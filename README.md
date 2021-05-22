@@ -21,31 +21,41 @@
 - Ranking :
 	- Top 5 Customers - Month and Year
 	- Best Table (most required) - Month and Year
-- Log management
+- Bookings log management
 
 
-### Booking 
+## Bookings 
 ![Booking](https://i.imgur.com/YU46C9Y.png "Booking")
-- Reservation management - Booking Status
+- Reservation management  
+- Bookings Status
 
-### Tables 
+
+
+## Tables 
 ![Tables](https://i.imgur.com/5wvXUy4.png "Tables")
-- Reservation management - Find a Free Table - Tables Status - Booking Status
+- Reservation management  
+- Find a Free Table 
+- Tables Status  
+- Bookings Status
 
-### Customer 
+## Customer 
 ![Clients](https://i.imgur.com/MFrboki.png "Clients")
 - Customer Registration
 
-### Reports
+## Reports
 ![Reports_I](https://i.imgur.com/pV35KaZ.png "Reports_I")
-- Total number of customers - Total number of customers to come - Top 5 Customers - Month and Year
+- Total number of customers  
+- Total number of customers to come  
+- Top 5 Customers - Month and Year
 
-### Reports
+## Reports
 ![Reports_II](https://i.imgur.com/Ow4THdt.png "Reports_II")
-- Total number of customers - Total number of customers to come - Best Table (most required) - Month and Year
+- Total number of customers  
+- Total number of customers to come  
+- Best Table (most required) - Month and Year
 
-### Logs 
+## Logs - Bookings
 ![Logs](https://i.imgur.com/jp2T1FD.png "Logs")
-- Log management
+- Bookings log management
 
 
