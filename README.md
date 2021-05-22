@@ -8,36 +8,44 @@
 - Customer Registration
 - Reservation management 
 	- Traditional List 
-	- Directly at the table to be occupied
+	- Directly at the table to be occupied 
+- Tables Status
+- Booking Status
+- Check-in / Check-out
 - Find a Free Table
 - Booking confirmation by email
-- Check-in / Check-out - by Status
-- Tables Status
 - Feedback after check-out (working on it)*
 - Daily reports :
 	- Total number of customers 
 	- Total number of customers to come
+- Ranking :
 	- Top 5 Customers - Month and Year
-	- Best Table - Month and Year
+	- Best Table (most required) - Month and Year
+- Log management
 
 
-
-##### Booking Page
+### Booking 
 ![Booking](https://i.imgur.com/YU46C9Y.png "Booking")
+- Reservation management - Booking Status
 
-##### Tables Page
+### Tables 
 ![Tables](https://i.imgur.com/5wvXUy4.png "Tables")
+- Reservation management - Find a Free Table - Tables Status - Booking Status
 
-##### Clients Page
+### Customer 
 ![Clients](https://i.imgur.com/MFrboki.png "Clients")
+- Customer Registration
 
-
-##### Reports Page I
+### Reports
 ![Reports_I](https://i.imgur.com/pV35KaZ.png "Reports_I")
+- Total number of customers - Total number of customers to come - Top 5 Customers - Month and Year
 
-##### Reports Page I
+### Reports
 ![Reports_II](https://i.imgur.com/Ow4THdt.png "Reports_II")
+- Total number of customers - Total number of customers to come - Best Table (most required) - Month and Year
 
-##### Logs Page
+### Logs 
 ![Logs](https://i.imgur.com/jp2T1FD.png "Logs")
+- Log management
+
 
